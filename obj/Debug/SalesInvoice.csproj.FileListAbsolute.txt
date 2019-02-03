@@ -1,0 +1,26 @@
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\bin\Debug\SalesInvoice.exe.config
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\bin\Debug\SalesInvoice.exe
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\bin\Debug\SalesInvoice.pdb
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\SalesInvoice.csprojResolveAssemblyReference.cache
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\MainWindow.baml
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\App.g.cs
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\SalesInvoice_MarkupCompile.cache
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\SalesInvoice.g.resources
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\SalesInvoice.Properties.Resources.resources
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\SalesInvoice.csproj.GenerateResource.Cache
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\SalesInvoice.exe
+C:\Users\HP\Pictures\my web\HomeWorks\SalesInvoice\obj\Debug\SalesInvoice.pdb
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\bin\Debug\SalesInvoice.exe.config
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\SalesInvoice.exe
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\SalesInvoice.pdb
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\bin\Debug\SalesInvoice.exe
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\bin\Debug\SalesInvoice.pdb
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\SalesInvoice.csprojResolveAssemblyReference.cache
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\MainWindow.baml
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\App.g.cs
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\SalesInvoice_MarkupCompile.cache
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\SalesInvoice.g.resources
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\SalesInvoice.Properties.Resources.resources
+C:\Users\HP\Pictures\my web\HomeWorks\User Interface Design\SalesInvoice\obj\Debug\SalesInvoice.csproj.GenerateResource.Cache
